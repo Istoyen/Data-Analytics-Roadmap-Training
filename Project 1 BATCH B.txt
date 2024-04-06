@@ -1,0 +1,49 @@
+
+ Project Summary:
+The project uses a retail dataset containing sales transactions. Students will use SQL to explore and analyze the dataset, gaining insights into customer behavior, sales performance, and product popularity.
+
+Objectives:
+- Understand the structure and content of the dataset.
+- Develop basic SQL querying skills.
+- Learn to perform aggregations and summarizations.
+- Conduct advanced analytical queries involving joins, subqueries, and window functions.
+- Interpret the results and derive business insights.
+
+ Beginner Level (1-5):
+1. Select all records from the table.
+   
+2. Count the number of transactions for each branch.
+  
+3. Find the total sales (Total column) for each Product line.
+ 
+4. Identify the average Rating for each category of Customer type.
+  
+5. List the transactions in ascending order of Date.
+   Intermediate Level (6-10):
+6. Calculate the average Unit price for each Gender.
+  7. Find the total gross income (gross income column) for each City.
+   8. Determine the maximum and minimum Rating for each Product line.
+  
+9. List all transactions with a Quantity greater than 5, ordered by Quantity descending.
+   
+10. Calculate the total sales by Gender for each Product line.
+    
+
+ Advanced Level (11-15):
+11. Identify the day of the week with the highest average gross income.
+    
+12. Rank the Product lines by the total Quantity sold.
+   
+13. Calculate the cumulative total of gross income for each day.
+   
+14. For each Branch, find the Product line with the highest total sales.
+  
+15. Determine the Customer type with the highest number of transactions above the average Total value.
+   
+
+The table name is assumed to be 'sales'. Replace it with the actual table name if different.
+
+ Project Summary and Insights:
+By answering these SQL questions, students will learn to navigate and analyze a retail dataset effectively. The insights obtained can include which products are most popular, peak sales periods, customer preferences, and overall sales performance by branch and city. These insights can inform business strategies such as inventory management, marketing campaigns, and customer engagement initiatives.
+
+The key to maximizing learning from this project is to not only write the queries but also to interpret the results. After running each query, students should take the time to understand what the results mean in a business context and think about the implications of these insights.

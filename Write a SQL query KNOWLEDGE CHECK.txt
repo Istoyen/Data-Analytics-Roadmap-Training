@@ -1,0 +1,10 @@
+Write a SQL query to find all individuals who are married and list their age, job, and education.
+Write a SQL query to find the average balance for individuals who have a housing loan.
+Write a SQL query to list the jobs and the number of individuals in each job who have defaulted on a loan.
+Write a SQL query to find the individual with the highest balance for each type of education.
+Write a SQL query to display the average duration of contact in the month of May for individuals who have been contacted more than once.
+query that shows the difference between the average balance of individuals who have been contacted by cellular and those contacted by other means.
+Write a SQL query to find individuals who have a balance above the average balance of all individuals, and who have been successfully contacted (poutcome = 'success').
+
+
+
